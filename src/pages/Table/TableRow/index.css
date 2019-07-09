@@ -1,0 +1,19 @@
+.main .title{
+    display: block;
+    width: 850px;
+    font-size: 20px;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+.ant-table-body{
+    width: 850px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+.ant-table-thead > tr > th{
+    background-color: #ecf3fc;
+}
+/*隐藏分页器*/
+.ant-table-pagination{
+    display: none;
+}

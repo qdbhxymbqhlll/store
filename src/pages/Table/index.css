@@ -1,0 +1,31 @@
+#components-layout-demo-top .logo {
+    width: 120px;
+    height: 31px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px 24px 16px 0;
+    float: left;
+}
+
+.ant-layout-header{
+    background-color: #fefefe;
+    display: flex;
+    justify-content: space-between;
+}
+.header-left{
+    font-size: 18px;
+    color: #252525;
+}
+.header-right  ul{
+    display: flex;
+    list-style: none;
+}
+.header-right  li{
+    font-size: 14px;
+    margin-right: 22px;
+    color: #608de5;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
